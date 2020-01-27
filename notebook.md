@@ -3,12 +3,12 @@ Please make sure you update it every week even if you have no time to work on
 anything. You can surely spend 2 minutes to update this document. Please put 
 the last activities first (e.g. in reverse cronological order by week)
 
-# Week Fri 01/17/20 - 01/24/20
+# Week 1 Fri 01/17/20 - 01/24/20
 
 * :+1: Attended lecture
 * :o2: reviewed python
 
-# Week Fri 01/24/20 - 01/31/20
+# Week 2 Fri 01/24/20 - 01/31/20
 
 In case you did not work during the week, you still need to report it with 
 
