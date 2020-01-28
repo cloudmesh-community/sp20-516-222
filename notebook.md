@@ -1,4 +1,4 @@
-# Notebook Peter McCandless sp10-516-222
+# Notebook Peter McCandless sp20-516-222
 
 # Week 1 Fri 01/17/20 - 01/24/20
 
