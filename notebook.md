@@ -1,15 +1,11 @@
-You will add to your notebook in bullet form for each week what you have done. 
-Please make sure you update it every week even if you have no time to work on 
-anything. You can surely spend 2 minutes to update this document. Please put 
-the last activities first (e.g. in reverse cronological order by week)
+# Notebook Peter McCandless sp10-516-222
 
 # Week 1 Fri 01/17/20 - 01/24/20
 
 * :+1: Attended lecture
-* :o2: reviewed python
+* :+1: Updated to python 3.8
 
 # Week 2 Fri 01/24/20 - 01/31/20
 
-In case you did not work during the week, you still need to report it with 
-
-* :o2: N/A
+* :+1: Watched uploaded lecture
+* :+1: Installed multipass - completed lecture notes assigned multipass exercises 
