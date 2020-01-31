@@ -8,6 +8,7 @@ In 2013, ByteGrid aquired the Cleveland Technology Center, a mixed-use technolog
 
 [2] <https://h5datacenters.com/cleveland-data-center.html>
 
-## Exercise 4: Hydro Power data centers
+## Exercise 4: Hydro Powered Data Centers
+
 
 
