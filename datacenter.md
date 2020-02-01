@@ -14,7 +14,7 @@ Hydroelectric power is genrated from the force of running water pushing a turbin
 
 [3]<https://www.nationalgeographic.org/encyclopedia/hydroelectric-energy>
 
-[4]<manufacturing.net/chemical-processing/article/13245967/examining-the-pros-and-cons-of-hydropower>
+[4]<https://www.manufacturing.net/chemical-processing/article/13245967/examining-the-pros-and-cons-of-hydropower>
 
 [5]<https://www.networkworld.com/article/3233313/first-self-powered-data-center-opens.html>
 
