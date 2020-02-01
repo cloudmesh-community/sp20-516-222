@@ -12,6 +12,7 @@ In 2013, ByteGrid aquired the Cleveland Technology Center, a mixed-use technolog
 Hydroelectric power is genrated from the force of running water pushing a turbine.  Hydroelectric power accounts for over 70% of all renewable energy gerenated in the world.  The most common method for producing hydroelectircity is the use of a dam from which the flow of water from a resivour can be controlled to match the power needs [3].  While the use of hydroelectric dams produces much lass CO2 than burning fossil fuels, dams can cause harm to the environment by altering water quality and disrupting wildlife habitats [4].  Data centers that are pwoered by hydroelectricity include Aruba S.p.A.'s Global Cloud Data Center in Milan, Italy and FaceBook's data center in Lulea, Sweden [5][6].      
 
 [3] <https://www.nationalgeographic.org/encyclopedia/hydroelectric-energy>
+
 [4] <manufacturing.net/chemical-processing/article/13245967/examining-the-pros-and-cons-of-hydropower>
 [5] <https://www.networkworld.com/article/3233313/first-self-powered-data-center-opens.html>
 [6] <https://www.greenbiz.com/blog/2013/06/13/facebook-flicks-hydropowered-data-center-sweden>
