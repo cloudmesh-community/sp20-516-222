@@ -16,7 +16,13 @@
 
 ## Week 3 Fri 01/31/20 - 02/07/20
 
-* :o2: Select topic for book chapter
-* :o2: Review venv in python3
-* :o2: Python Classes lecture notes 4.3.2.3.3
+* :+1: Select topic for book chapter
+* :+1: Review venv in python3
+* :+1: Python Classes lecture notes 4.3.2.3.3
 * :o2: Complete cloudmesh exercises in Python of Cloud Computing Book
+
+## Week 4 Fri 02/07/20 - 02/14/20
+
+* :o2: Read information on OpenStack and how to use Horizon
+* :o2: Installation of cloudmesh cloud bundle
+* :o2: Complete 4.4.9 Exercise 
