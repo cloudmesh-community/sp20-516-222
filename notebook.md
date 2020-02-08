@@ -25,4 +25,5 @@
 
 * :o2: Read information on OpenStack and how to use Horizon
 * :o2: Installation of cloudmesh cloud bundle
-* :o2: Complete 4.4.9 Exercise 
+* :o2: Complete 4.4.9 Exercise
+* :o2: Write chapter on volume management in clouds
