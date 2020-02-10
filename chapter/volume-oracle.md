@@ -1,5 +1,9 @@
 # Volume Management on Oracle sp20-516-222, McCandless, Peter
 
+:o2: Add References
+
+:o2: Add Images
+
 ## Oracle Cloud Infrastructure Object Storage
 Data stored as objects in Oracle Cloud can be up to 50 GB in size. Once data is uploaded to Object Storage it can be accessed from anywhere, as opposed to network-attached storage for which access is limited by geographical area.  Object Storage is useful to store large amounts of data that changes infrequently. Some typical use cases for Object Storage include large volumes of unstructured data, archiving and backup, and file sharing.
 
