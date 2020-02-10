@@ -2,7 +2,7 @@
 
 :o2: to improve, use next bibtex for references
 
-:o2: labels for assignments are wrong
+:+1: labels for assignments are wrong
 
 ## E.Datacenter.2.b
 
