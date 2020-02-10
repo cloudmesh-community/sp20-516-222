@@ -22,9 +22,7 @@ To be added: image of table for volume types
 
 There are several factors that influence the performance of EBS.  EBS performance for all volumes types is directly related to the storage size allocated to the block.  When using gp2 for example, the block volume size created determines the baseline input/output per second (IOPS) of the application running in the block.  Increasing block size allows more throughput, which can be useful for databases which perform large amounts of sequential input/output.  Since block size also determines the minimum total storage size, more space that is necessary may be used when working with small objects or files.  It is important to understand the volume needs of the data storage and applications before setting up a block storage in order to avoid misusing resources and possibly incurring higher costs.  Finally, optimizing network bandwidth by using optimized Amazon EC2 instances or by using appropriate networking is important for getting the best performance from EBS.  
 
-## Amazon EBS Example
-
-How to Automatically Filter and Delete EBS Volumes with Lambda Functions and CloudWatch
+## Amazon EBS Example: How to Automatically Filter and Delete EBS Volumes with Lambda Functions and CloudWatch
 
 Step 1: Get Started by Opening AWS LambdaAWS Lambda
 
