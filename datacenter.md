@@ -26,9 +26,17 @@ Hydroelectric power is genrated from the force of running water pushing a turbin
 
 ## E.Datacenter.5
 
+The state of Wisconsin gets about 10% of its energy production from renewable resourses.  Hydroelectic power accounts for roughly half of the renewable energy used by the state, and is produced from about 150 dams. A quarter of the renewable energy used in Wisconsin is produced by biofuels.  Methane is captured from landfill facilities, and ethanol is produced from growing corn used for feedstock.  While biofuels are a renewable resource, they still produce carbon dioxide when they are burned to produce energy which contirbutes to climate change.  Wisconsin's third-largest renewable energy source is wind.  The state's wind farms are mostly located either along the shores of Lake Michigan or in the southeast near the plains.  There exist furthur potential to expand the usage of wind energy by building wind farms off-shore in Lake Michigan.  The Wisconsin state government has set several goals for reducing carbon emissions and increasing the use of renwable energy, including increasing the amount of forested land and increasing the percent of the state's energy produced from renewable resources[7].           
 
+[7] <https://www.eia.gov/state/analysis.php?sid=WI>
 
 ## E.Datacenter.8
+
+In 2016, both Southwest and Delta airlines experienced outages at their datacenters.  Both airlines were forced to cancel flights over three days.  Soutwest's outage was estimated to cost at least $177 million in lost revenue [8].  Delta's outage grounded over 2,000 flights, stranded over 250,000 people, and cost $150 millon [9].  Both companies were forced to issue refunds for cancelled and severly delayed flights, lost revenue from grounding planes, and suffered from negative media coverage and lowered public perception of the companies [8].
+
+[8] <https://www.datacenterknowledge.com/archives/2016/09/08/delta-data-center-outage-cost-us-150m>
+
+[9] <https://www.orrprotection.com/mcfp/blog/data-center-outage-cost-delta-150-million>
 
 
 
