@@ -12,7 +12,7 @@
 * :+1: Watched uploaded lecture
 * :+1: Installed multipass - completed lecture notes assigned multipass exercises 
 * :+1: Connected Github to Pycharm
-* :o2: Complete Data Center Exercises 
+* :+1: Complete Data Center Exercises 
 
 ## Week 3 Fri 01/31/20 - 02/07/20
 
