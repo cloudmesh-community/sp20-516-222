@@ -18,5 +18,37 @@ Amazon provides an object storage service through its Amazon Storage Service (S3
 
 Amazon’s block storage, called Amazon Elastic Block Store (EBS), allows users to choose between four volume types: EBS Provisioned IOPS SSD (io1), EBS General Purpose SSD (gp2), Throughput Optimized HDD (st1), and Cold HDD (sc1).
 
+To be added: image of table for volume types
+
+There are several factors that influence the performance of EBS.  EBS performance for all volumes types is directly related to the storage size allocated to the block.  When using gp2 for example, the block volume size created determines the baseline input/output per second (IOPS) of the application running in the block.  Increasing block size allows more throughput, which can be useful for databases which perform large amounts of sequential input/output.  Since block size also determines the minimum total storage size, more space that is necessary may be used when working with small objects or files.  It is important to understand the volume needs of the data storage and applications before setting up a block storage in order to avoid misusing resources and possibly incurring higher costs.  Finally, optimizing network bandwidth by using optimized Amazon EC2 instances or by using appropriate networking is important for getting the best performance from EBS.  
+
 ## Amazon EBS Example
+
+How to Automatically Filter and Delete EBS Volumes with Lambda Functions and CloudWatch
+Step 1: Get Started by Opening AWS LambdaAWS Lambda
+Step 2: Create a Lambda Function Lambda Function 
+Step 3: Click on the Empty Box and Select CloudWatch ScheduleCloudWatch Schedule
+Step 4: Schedule the Function by Specifying Cron ExpressionCron Expression
+Step 5: Assign a Role with Necessary PermissionsLambda Permissions
+Step 6: Paste the Following Code Snippet After the Trigger is Created.Code Snippet:import boto3
+
+ec2 = boto3.resource('ec2',region_name='us-east-1')
+def lambda_handler(event, context):
+for vol in ec2.volumes.all():
+if vol.state=='available':
+if vol.tags is None:
+vid=vol.id
+v=ec2.Volume(vol.id)
+v.delete()
+print "Deleted " +vid
+continue
+for tag in vol.tags:
+if tag['Key'] == 'Name':
+value=tag['Value']
+if value != 'DND' and vol.state=='available':
+vid=vol.id
+v=ec2.Volume(vol.id)
+v.delete()
+print "Deleted " +vid
+
 
