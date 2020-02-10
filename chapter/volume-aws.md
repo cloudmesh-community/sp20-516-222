@@ -31,7 +31,6 @@ Step 3: Click on the Empty Box and Select CloudWatch ScheduleCloudWatch Schedule
 Step 4: Schedule the Function by Specifying Cron ExpressionCron Expression
 Step 5: Assign a Role with Necessary PermissionsLambda Permissions
 Step 6: Paste the Following Code Snippet After the Trigger is Created.Code Snippet:import boto3
-
 ec2 = boto3.resource('ec2',region_name='us-east-1')
 def lambda_handler(event, context):
 for vol in ec2.volumes.all():
