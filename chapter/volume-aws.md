@@ -1,3 +1,7 @@
+:o2: Add References
+
+:o2: Add Images
+
 # Volume Management on AWS sp20-516-222, McCandless, Peter
 
 AWS offers cloud storage services for each of the three cloud storage types: Amazon Elastic File Service, Amazon Simple Storage Service, and Amazon Elastic Block Store. 
