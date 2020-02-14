@@ -4,9 +4,13 @@
 
 :o2: Add Images
 
+Please answer the tests and dont delete them.
+
 :o2: test: what comes after a headline?
 
 :o2: test: how are undents managed in markdown in lists?
+
+:o2: test: why are we not useing you’ll
 
 ## Oracle Cloud Infrastructure Object Storage
 Data stored as objects in Oracle Cloud can be up to 50 GB in size. Once data is uploaded to Object Storage it can be accessed from anywhere, as opposed to network-attached storage for which access is limited by geographical area.  Object Storage is useful to store large amounts of data that changes infrequently. Some typical use cases for Object Storage include large volumes of unstructured data, archiving and backup, and file sharing.
@@ -39,5 +43,5 @@ For example: Open Server Manager, click Tools, and then select iSCSI Initiator.
 9.	Make sure that the Add this connection to the list of favorite targets check box is selected, and then click OK.
 10.	You can now format (if needed) and mount the volume. To view a list of mountable iSCSI devices on your instance, in Server Manager, click File and Storage Services, and then click Disks.  The disk is displayed in the list.
 
-When connecting to a Windows boot volume as a data volume from a second instance, you need to append -IsMultipathEnabled $True to the Connect-IscsiTarget command.
+When connecting to a Windows boot volume as a data volume from a second instance, you need to append -IsMultipathEnabled `$True` to the Connect-IscsiTarget command.
 
