@@ -11,7 +11,7 @@ A blank line
 
 :o2: test: how are indents managed in markdown in lists?
 1. Add first nubered item
-2. Add sencond numbered item
+2. Add second numbered item
     1. Add sublist by using four spaces and number or unordered sublist with * - or +
     2. Add additoional items in sublist
         + use another four spaces to add sub-sublist (this one unodered using +)
