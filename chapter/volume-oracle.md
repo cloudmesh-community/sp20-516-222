@@ -16,11 +16,11 @@ A blank line
     2. Add additoional items in sublist
         + use another four spaces to add sub-sublist (this one unodered using +)
     3. Continue sublist
-3. Continue list
-
+3. Continue list  
+Add two trailing spaces to the end of a line for a line break (such as after the word "list" in the preceding line).
 
 :o2: test: why are we not useing you’ll  
-Technical scientific writing avoids use of pronouns.  Also, add two trailing spaces to the end of a line to have a line break
+Technical and scientific writing avoids use of pronouns.
 
 ## Oracle Cloud Infrastructure Object Storage
 
