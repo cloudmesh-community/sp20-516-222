@@ -4,6 +4,10 @@
 
 :o2: Add Images
 
+:o2: test: what comes after a headline?
+
+:o2: test: how are undents managed in markdown in lists?
+
 ## Oracle Cloud Infrastructure Object Storage
 Data stored as objects in Oracle Cloud can be up to 50 GB in size. Once data is uploaded to Object Storage it can be accessed from anywhere, as opposed to network-attached storage for which access is limited by geographical area.  Object Storage is useful to store large amounts of data that changes infrequently. Some typical use cases for Object Storage include large volumes of unstructured data, archiving and backup, and file sharing.
 
