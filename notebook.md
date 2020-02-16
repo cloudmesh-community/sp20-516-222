@@ -30,7 +30,7 @@
 
 ## Week 5 Fri 02/14/20 - 02/21/20
 
-* :o2: Project proposal due 02/17
+* :o2: Project proposal due 02/16
 * :o2: Revise chapter
 * :o2: Read cloud computing chapter on hypervisor
 * :o2: Read cloud computing chapter on Iaas focusing on one cloud
