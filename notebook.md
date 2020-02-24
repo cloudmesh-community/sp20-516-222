@@ -23,7 +23,7 @@
 
 ## Week 4 Fri 02/07/20 - 02/14/20
 
-* :o2: Read information on OpenStack and how to use Horizon
+* :+1: Read information on OpenStack and how to use Horizon
 * :+1: Installation of cloudmesh cloud bundle
 * :+1: Complete 4.4.9 Exercise
   * started vm in horizon, login, terminate
