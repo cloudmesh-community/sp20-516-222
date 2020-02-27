@@ -1,8 +1,6 @@
 # sp20-516-222 Peter McCandless Data Center Exercises
 
-:o2: to improve, use next bibtex for references
-
-:+1: labels for assignments are wrong
+:o2: use bibtex 
 
 ## E.Datacenter.2.b
 

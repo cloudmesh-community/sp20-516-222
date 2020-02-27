@@ -23,7 +23,22 @@
 
 ## Week 4 Fri 02/07/20 - 02/14/20
 
-* :o2: Read information on OpenStack and how to use Horizon
-* :o2: Installation of cloudmesh cloud bundle
-* :o2: Complete 4.4.9 Exercise
-* :o2: Write chapter on volume management in clouds
+* :+1: Read information on OpenStack and how to use Horizon
+* :+1: Installation of cloudmesh cloud bundle
+* :+1: Complete 4.4.9 Exercise
+  * started vm in horizon, login, terminate
+  * started vm in cloudmesh, login, terminate
+* :+1: Write chapter on volume management in clouds
+
+## Week 5 Fri 02/14/20 - 02/21/20
+
+* :o2: Project proposal
+* :o2: Revise chapter
+* :o2: Read cloud computing chapter on hypervisor
+* :o2: Read cloud computing chapter on Iaas focusing on one cloud
+* :o2: Complete 4.5.4 Exercise
+
+## Week 5 Fri 02/21/20 - 02/28/20
+
+* :o2: Revise chapter
+* :o2: Work on Volume mangament project
