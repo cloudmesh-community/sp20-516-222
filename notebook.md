@@ -32,13 +32,18 @@
 
 ## Week 5 Fri 02/14/20 - 02/21/20
 
-* :o2: Project proposal
-* :o2: Revise chapter
-* :o2: Read cloud computing chapter on hypervisor
-* :o2: Read cloud computing chapter on Iaas focusing on one cloud
+* :+1: Project proposal
+* :+1: Revise chapter - made progress
+* :+1: Read cloud computing chapter on hypervisor
+* :+1: Read cloud computing chapter on Iaas focusing on one cloud
 * :o2: Complete 4.5.4 Exercise
 
-## Week 5 Fri 02/21/20 - 02/28/20
+## Week 6 Fri 02/21/20 - Sun 03/01/20
 
-* :o2: Revise chapter
+* :+1: Revise chapter - made progress
+* :o2: Work on Volume mangament project
+
+## Week 7 Mon 03/02/20 - Sun 02/08/20
+
+* :o2: Revise chapter - made progress
 * :o2: Work on Volume mangament project
