@@ -36,14 +36,17 @@
 * :+1: Revise chapter - made progress
 * :+1: Read cloud computing chapter on hypervisor
 * :+1: Read cloud computing chapter on Iaas focusing on one cloud
-* :o2: Complete 4.5.4 Exercise
+* :o2: Complete 4.5.4 Exercise Multipass
+* :o2: Complete 4.5.5 Exercise Cloud API
 
 ## Week 6 Fri 02/21/20 - Sun 03/01/20
 
 * :+1: Revise chapter - made progress
 * :o2: Work on Volume mangament project
+* :o2: Complete 4.6.2 Lab Activities
+* :o2: Complete 4.6.3 Graded Lab Activity
 
-## Week 7 Mon 03/02/20 - Sun 02/08/20
+## Week 7 Mon 03/02/20 - Sun 03/08/20
 
 * :o2: Revise chapter - made progress
 * :o2: Work on Volume mangament project
