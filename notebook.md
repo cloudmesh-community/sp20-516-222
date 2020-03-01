@@ -43,7 +43,7 @@
 
 * :+1: Revise chapter - made progress
 * :o2: Work on Volume mangament project
-* :o2: Complete 4.6.2 Lab Activities
+* :o2: Complete 4.6.2 Lab Activities (6.2.2.4 and 6.9 in Cloud Computing book)
 * :o2: Complete 4.6.3 Graded Lab Activity
 
 ## Week 7 Mon 03/02/20 - Sun 03/08/20
