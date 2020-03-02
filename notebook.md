@@ -42,7 +42,8 @@
 ## Week 6 Fri 02/21/20 - Sun 03/01/20
 
 * :+1: Revise chapter - made progress
-* :o2: Work on Volume mangament project
+* :+1: Work on Volume mangament project
+  - added to abstract method
 * :o2: Complete 4.6.2 Lab Activities (6.2.2.4 and 6.9 in Cloud Computing book)
 * :o2: Complete 4.6.3 Graded Lab Activity
 
