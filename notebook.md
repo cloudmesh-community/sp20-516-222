@@ -50,3 +50,7 @@
 
 * :o2: Revise chapter - made progress
 * :o2: Work on Volume mangament project
+* :o2: 4.9.3 Lab Bookmanager 
+  + Read the section in the Container chapter about book manager. Do assignments:
+    - E.container.bookmanager.1
+    - E.container.bookmanager.2
