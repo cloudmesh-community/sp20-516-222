@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Volume on a physical disk is defined by Microsoft as “a unit of disk space composed as one or more sections of one or more disks” with a simple volume being a single portion of one disk [@sp20-516-222_MicrosoftTermonology].
+Volume on a physical disk is defined by Microsoft as “a unit of disk space composed as one or more sections of one or more disks” with a simple volume being a single portion of one disk [@www-sp20-516-222_MicrosoftTermonology].
 
 ![Volume on a physical disk in Windows](images/Hard disk volume example.PNG){#fig:sp20-516-222-physicaldisk}
 
