@@ -49,9 +49,15 @@
 
 ## Week 7 Mon 03/02/20 - Sun 03/08/20
 
-* :o2: Revise chapter - made progress
-* :o2: Work on Volume mangament project
+* :o2: Revise chapter
+  + Added images to introduction
+* :+1: Work on Volume mangament project
+  + Added functions to cloudmesh-volume google Provider.py
 * :o2: 4.9.3 Lab Bookmanager 
   + Read the section in the Container chapter about book manager. Do assignments:
     - E.container.bookmanager.1
     - E.container.bookmanager.2
+    
+## Week 8 Mon 03/09/20 - Sun 03/15/20
+
+* :o2: Work on Volume mangament project
