@@ -60,4 +60,9 @@
     
 ## Week 8 Mon 03/09/20 - Sun 03/15/20
 
+* :+1: Work on Volume mangament project
+  + Found documentation for google-cloud-python-client
+
+## Week 9 Mon 03/16/20 - Sun 03/22/20
+
 * :o2: Work on Volume mangament project
