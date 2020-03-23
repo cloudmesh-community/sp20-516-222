@@ -73,3 +73,5 @@
 
 * :o2: Finish google volume list
 * :o2: Finish google volume create
+* :o2: add bibtex for datacenter assignment
+* :o2: improve volume managment chapter
