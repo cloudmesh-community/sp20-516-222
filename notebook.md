@@ -65,4 +65,11 @@
 
 ## Week 9 Mon 03/16/20 - Sun 03/22/20
 
-* :o2: Work on Volume mangament project
+* :+1: Work on Volume mangament project
+  + Able to authenticate
+  + Still need to extract existing volumes from list of regions pulled from cloud
+
+## Week 10 Mon 03/23/20 - Sun 03/29/20
+
+* :o2: Finish google volume list
+* :o2: Finish google volume create
