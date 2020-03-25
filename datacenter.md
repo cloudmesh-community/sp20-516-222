@@ -1,4 +1,4 @@
-# sp20-516-222 Peter McCandless Data Center Exercises
+# Datacenter Peter McCandless sp20-516-222 
 
 :o2: use bibtex 
 
