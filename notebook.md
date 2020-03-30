@@ -71,7 +71,12 @@
 
 ## Week 10 Mon 03/23/20 - Sun 03/29/20
 
-* :o2: Finish google volume list
-* :o2: Finish google volume create
-* :o2: add bibtex for datacenter assignment
-* :o2: improve volume managment chapter
+* :+1: Finish google volume list
+* :+1: Finish google volume create
+
+## Week 11 Mon 03/30/20 - Sun 04/05/20
+
+* :o2: Finish google volume delete
+* :o2: Finish google volume attach
+* :o2: Finish google volume detach
+
