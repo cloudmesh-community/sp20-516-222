@@ -76,7 +76,11 @@
 
 ## Week 11 Mon 03/30/20 - Sun 04/05/20
 
-* :o2: Finish google volume delete
-* :o2: Finish google volume attach
-* :o2: Finish google volume detach
+* :+1: Finish google volume delete
+* :+1: Finish google volume attach
+* :+1: Finish google volume detach
 
+
+## Week 12 Mon 04/06/20 - Sun 04/12/20
+
+* :o2: Work on google volume pytest
