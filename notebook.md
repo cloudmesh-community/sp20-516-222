@@ -83,4 +83,12 @@
 
 ## Week 12 Mon 04/06/20 - Sun 04/12/20
 
-* :o2: Work on google volume pytest
+* :+1: Add wait functions to google provider functions
+* :+1: Work on passing pytest with google provider
+* :+1: Work on migrate and sync for google provider
+
+## Week 13 Mon 04/13/20 - Sun 04/19/20
+
+* :o2: Pass pytest with google provider
+* :o2: Finish migrate for google provider
+* :o2: Work on sync for google provider
