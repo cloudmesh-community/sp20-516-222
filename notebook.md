@@ -80,7 +80,6 @@
 * :+1: Finish google volume attach
 * :+1: Finish google volume detach
 
-
 ## Week 12 Mon 04/06/20 - Sun 04/12/20
 
 * :+1: Add wait functions to google provider functions
@@ -89,6 +88,15 @@
 
 ## Week 13 Mon 04/13/20 - Sun 04/19/20
 
+* :+1: Pass pytest with google provider
+* :+1: Finish migrate for google provider
+* :+1: Work on sync for google provider
+
+## Week 14 Mon 04/20/20 - Sun 04/26/20
+
 * :o2: Pass pytest with google provider
-* :o2: Finish migrate for google provider
-* :o2: Work on sync for google provider
+  - need to find source of error from latest update
+* :o2: Documentation for google provider
+  - documentation for google functions
+  - documentation for migrate and sync
+* :o2: Finish volume management chapter
