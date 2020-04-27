@@ -94,9 +94,16 @@
 
 ## Week 14 Mon 04/20/20 - Sun 04/26/20
 
-* :o2: Pass pytest with google provider
+* :+1: Pass pytest with google provider
   - need to find source of error from latest update
-* :o2: Documentation for google provider
+* :+1: Documentation for google provider
   - documentation for google functions
   - documentation for migrate and sync
 * :o2: Finish volume management chapter
+
+## Week 15 Mon 04/27/20 - Sun 05/03/20
+
+* :o2: Create accounts for all clouds supported by volume management 
+* :o2: Run pytests with all clouds
+  - collect logs
+  - compare benchmarks
