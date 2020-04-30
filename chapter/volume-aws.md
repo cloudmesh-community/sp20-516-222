@@ -40,6 +40,8 @@ Step 3: Click on the Empty Box and Select CloudWatch ScheduleCloudWatch Schedule
 
 Step 4: Schedule the Function by Specifying Cron ExpressionCron Expression
 
+![[@@www-sp20-516-222-EBScosteff]](images/Lambdastep4.PNG){#fig:sp20-516-222-Lambdaste3 width=lin}
+
 Step 5: Assign a Role with Necessary PermissionsLambda Permissions
 
 Step 6: Paste the Following Code Snippet After the Trigger is Created.  Code Snippet:
