@@ -28,6 +28,8 @@ There are several factors that influence the performance of EBS.  EBS performanc
 
 ## Amazon EBS Example: How to Automatically Filter and Delete EBS Volumes with Lambda Functions and CloudWatch
 
+The following example shows how to find unsed EBS volumes, which can then be deleted.  Deleting unused volumes can help control the cost of using the cloud service [@www-sp20-516-222-EBScosteff].
+
 Step 1: Get Started by Opening AWS LambdaAWS Lambda
 
 Step 2: Create a Lambda Function Lambda Function 
