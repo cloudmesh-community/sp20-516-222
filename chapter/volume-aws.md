@@ -36,6 +36,8 @@ Step 2: Create a Lambda Function Lambda Function
 
 Step 3: Click on the Empty Box and Select CloudWatch ScheduleCloudWatch Schedule
 
+![[@@www-sp20-516-222-EBScosteff]](images/Lambdastep3.PNG){#fig:sp20-516-222-Lambdaste3 width=lin}
+
 Step 4: Schedule the Function by Specifying Cron ExpressionCron Expression
 
 Step 5: Assign a Role with Necessary PermissionsLambda Permissions
