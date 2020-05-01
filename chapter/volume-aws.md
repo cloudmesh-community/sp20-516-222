@@ -16,7 +16,7 @@ Also available in AWS are two specialized file systems called FSx.  For Windows 
 
 ## Amazon Simple Storage Service (S3)
 
-Amazon provides an object storage service through its Amazon Storage Service (S3).  Like Amazon EFS, S3 will automatically scale volume to accommodate increased data storage and to meet the demands of running applications.   
+Amazon provides an object storage service through its Amazon Storage Service (S3).  Like Amazon EFS, S3 will automatically scale volume to accommodate increased data storage and to meet the demands of running applications [wwww-sp20-e516-awss3].   
 
 ## Amazon Elastic Block Store (EBS)
 
