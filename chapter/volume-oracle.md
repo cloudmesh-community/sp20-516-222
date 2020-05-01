@@ -24,13 +24,13 @@ Technical and scientific writing avoids use of pronouns.
 
 ## Oracle Cloud Infrastructure Object Storage
 
-Data stored as objects in Oracle Cloud can be up to 50 GB in size. Once data is uploaded to Object Storage it can be accessed from anywhere, as opposed to network-attached storage for which access is limited by geographical area.  Object Storage is useful to store large amounts of data that changes infrequently. Some typical use cases for Object Storage include large volumes of unstructured data, archiving and backup, and file sharing [www-sp20-e516-oracleobjstore].
+Data stored as objects in Oracle Cloud can be up to 50 GB in size. Once data is uploaded to Object Storage it can be accessed from anywhere, as opposed to network-attached storage for which access is limited by geographical area.  Object Storage is useful to store large amounts of data that changes infrequently. Some typical use cases for Object Storage include large volumes of unstructured data, archiving and backup, and file sharing [@www-sp20-e516-oracleobjstore].
 
 ## Oracle Cloud Infrastructure Block Volume Service
 
-A block volume is a virtual disk that provides persistent block storage space for Oracle Cloud Infrastructure instances.  After creating an instance in the oracle cloud, it is possible to connect a block storage volume to the instance.  Oracle Cloud block volumes can range from 50GB to 32TB, and a maximum of 32 block volumes can be attached to the same instance.  The volume can then be used similarly to a physical hard drive in that the volume can be removed from the instance and attached or connected to another instance.  The volume can also be tailored to meet the needs of the application or storage by varying characteristics such as size or elastic performance [www-sp20-e516-oracleblockvolume].  
+A block volume is a virtual disk that provides persistent block storage space for Oracle Cloud Infrastructure instances.  After creating an instance in the oracle cloud, it is possible to connect a block storage volume to the instance.  Oracle Cloud block volumes can range from 50GB to 32TB, and a maximum of 32 block volumes can be attached to the same instance.  The volume can then be used similarly to a physical hard drive in that the volume can be removed from the instance and attached or connected to another instance.  The volume can also be tailored to meet the needs of the application or storage by varying characteristics such as size or elastic performance [@www-sp20-e516-oracleblockvolume].  
  
-## Example of connecting a block volume to an instance
+## Example of connecting a block volume to an instance [@www-sp20-e516-oracleconnectvolume]
 
 To connect the volume, you need the following information:
 * iSCSI IP Address
@@ -55,5 +55,4 @@ To connect the volume, you need the following information:
 9.	Make sure that the Add this connection to the list of favorite targets check box is selected, and then click OK.
 10.	You can now format (if needed) and mount the volume. To view a list of mountable iSCSI devices on your instance, in Server Manager,  click File and Storage Services, and then click Disks.  The disk is displayed in the list.
 
-When connecting to a Windows boot volume as a data volume from a second instance, you need to append -IsMultipathEnabled $True to the Connect-IscsiTarget command.
 
