@@ -1,9 +1,5 @@
 # Volume Management on Oracle sp20-516-222, McCandless, Peter
 
-:o2: Add References
-
-:o2: Add Images
-
 Please answer the tests and dont delete them.
 
 :+1: test: what comes after a headline?   
