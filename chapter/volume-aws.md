@@ -6,6 +6,8 @@
 
 AWS offers cloud storage services for each of the three cloud storage types: Amazon Elastic File Service, Amazon Simple Storage Service, and Amazon Elastic Block Store. 
 
+![[@www-sp20-e156-222-awsstorage]](images/awsstorageoptions.PNG){#fig:sp20-516-222-awsstorageoptions width=lin}
+
 ## AWS File Storage Services
 
 Amazon Elastic File Service (EFS) for Linux applications is a cloud file storage system that, as the name indicates, is elastic and scalable.  EFS uses a hierarchical directory structure common to file storage systems.  Being an elastic system means that the EFS storage volume is able to expand and shrink automatically as files are added and removed.  EFS also includes a Lifecycle Management feature that automatically sorts infrequently used files from a standard storage class into a lower-cost storage class.
