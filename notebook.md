@@ -103,7 +103,8 @@
 
 ## Week 15 Mon 04/27/20 - Sun 05/03/20
 
-* :o2: Create accounts for all clouds supported by volume management 
-* :o2: Run pytests with all clouds
+* :+1: Create accounts for all clouds supported by volume management 
+* :+1: Run pytests with all clouds
   - collect logs
   - compare benchmarks
+* :+1: Finish volume management chapter
