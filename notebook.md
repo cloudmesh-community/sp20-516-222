@@ -49,7 +49,7 @@
 
 ## Week 7 Mon 03/02/20 - Sun 03/08/20
 
-* :o2: Revise chapter
+* :+1: Revise chapter
   + Added images to introduction
 * :+1: Work on Volume mangament project
   + Added functions to cloudmesh-volume google Provider.py
@@ -99,7 +99,8 @@
 * :+1: Documentation for google provider
   - documentation for google functions
   - documentation for migrate and sync
-* :o2: Finish volume management chapter
+* :+1: Finish volume management chapter
+  + completed week 15
 
 ## Week 15 Mon 04/27/20 - Sun 05/03/20
 
